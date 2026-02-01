@@ -4,12 +4,16 @@ Bu repo, Swift Student Challenge hazırlık sürecimde izlediğim/okuduğum kayn
 Amaç: Tek bir linkten herkesin hızlıca doğru kaynaklara ulaşabilmesi.
 
 ## Start Here
-- ✅ Yeni başlayanlar: [Start Here](resources/00-start-here.md)
-- 🍏 Apple resmi kaynaklar: [Official Apple](resources/01-official-apple.md)
-- 🧩 SwiftUI: [SwiftUI](resources/02-swiftui.md)
-- ⚙️ Concurrency: [Concurrency](resources/04-concurrency.md)
-- 🎨 Design & Accessibility: [Design & Accessibility](resources/08-design-accessibility.md)
-- 🏁 Submission (storytelling): [Submission](resources/09-submission-storytelling.md)
+- [Start Here](resources/00-start-here.md)
+- [Official Apple](resources/01-official-apple.md)
+- [SwiftUI](resources/02-swiftui.md)
+- [UIKit](resources/03-uikit.md)
+- [Concurrency](resources/04-concurrency.md)
+- [Networking](resources/05-networking.md)
+- [Persistence](resources/06-persistence.md)
+- [Testing](resources/07-testing.md)
+- [Design & Accessibility](resources/08-design-accessibility.md)
+- [Submission & Storytelling](resources/09-submission-storytelling.md)
 
 ---
 
@@ -20,6 +24,7 @@ Her kaynak şu formatla yazılır:
   - Notes: kısa not / neden önemli
 
 ---
+
 
 ## Contributing (opsiyonel)
 Kaynak eklemek istersen:
