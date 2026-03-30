@@ -24,8 +24,6 @@ This is the list. One link. Everything vetted.
 
 It started as the preparation notes for a single submission (2025), but is designed to grow into a **shared knowledge base** for every SSC applicant. If it helped you, star it and send the link to the next person preparing.
 
-> **Note:** Some resources and notes are written in Turkish. All links and titles are in English. Global contributions are very welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ---
 
 ## What's Inside
